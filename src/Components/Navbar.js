@@ -10,7 +10,7 @@ const Navbar = () => {
       >
         <Link to="/" className="navbar-danger m-2 ms-5">
           {" "}
-          <h2>Habit-Tracker</h2>
+          <h2>Health-Tracker</h2>
         </Link>
         <form action="" className="form-inline">
           <Link
